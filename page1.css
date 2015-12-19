@@ -1,0 +1,75 @@
+<style>
+
+
+        body{
+            background-color: #E7E5E4;
+        }
+
+        #bean{
+            height: 600px;
+            width: 3000px;
+        }
+
+
+            h2{
+                text-align: center;
+                font-family: Lato, sans-serif;
+                font-weight: bold;
+                text-decoration-color: white;
+            }
+
+
+              h4{
+                text-align: center;
+                font-family: Lato, sans-serif;
+                font-weight: thin;
+                text-decoration-color: white;
+            }
+
+        #Icon{
+             color: #202020;
+              background-color: #2d2d2d;
+              letter-spacing: .1em;
+              text-shadow: -1px -1px 1px #111111, 2px 2px 1px #363636;
+            }
+
+              body{
+                background-color:#E7E5E4;
+            
+            }
+           
+            
+        .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+        color: #5CA4A9;  /*Sets the text hover color on navbar*/
+        }
+
+        .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+         a:hover, .navbar-default .navbar-nav > .active > a:focus {
+        color: white; /*BACKGROUND color for active*/
+        background-color: #2D2D2D;
+        }
+
+          .navbar-default {
+            background-color: #2D2D2D;
+            border-color: #2D2D2D;
+        }
+
+          .dropdown-menu > li > a:hover,
+           .dropdown-menu > li > a:focus {
+            color: #262626;
+           text-decoration: none;
+          background-color: #2D2D2D;  /*change color of links in drop down here*/
+           }
+
+         .nav > li > a:hover,
+         .nav > li > a:focus {
+            text-decoration: none;
+            background-color: black; /*Change rollover cell color here*/
+          }
+
+
+          .navbar-default .navbar-nav > li > a {
+           color: #E7E5E4; /*Change active text color here*/
+            }
+            
+        </style>
