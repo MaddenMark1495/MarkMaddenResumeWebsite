@@ -65,7 +65,7 @@
                 <h1 id="name">Mark Madden</h1>
                 <a href="http://mcmpw6cs2830.azurewebsites.net/madden/index.php">Home</a> <a href="http://mcmpw6cs2830.azurewebsites.net/madden/about.php">About</a>  <a href="http://mcmpw6cs2830.azurewebsites.net/madden/resume.php">Resume</a>  <a href="http://mcmpw6cs2830.azurewebsites.net/madden/contact.php">Contact</a>  <a href="https://github.com/MaddenMark1495">Portfolio</a>  <a href="http://mcmpw6cs2830.azurewebsites.net/madden/log-in.php">Login</a> 
                 
-                <p id="legal">2015 Mark Madden. I do not own the images on this site</p>
+                <p id="legal">2015 Mark Madden. I do not own the images</p>
                 
             </div>
             <div class="col-sm-4"></div>

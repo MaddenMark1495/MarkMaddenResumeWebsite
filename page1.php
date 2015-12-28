@@ -64,6 +64,10 @@
             font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
         
         }
+        #game{
+        
+            padding-left:50px;
+        }
         
         
         
@@ -124,7 +128,21 @@
     </div>
     
     
-    <div class="row" id="row2">
+        
+        
+        
+        <div class="row" id ="row1">
+                 <h3>Play a Game</h3>
+<!-- Place this code where you'd like the game to appear -->
+<div id="game" class="miniclip-game-embed" data-game-name="cut-the-rope-time-travel" data-theme="0" data-width="1024" data-height="576" data-language="en"><a href="http://www.miniclip.com/games/cut-the-rope-time-travel/">Play Cut the Rope Time Travel</a></div>
+<p style="text-align:center;"><a href="http://www.miniclip.com/games/cut-the-rope-time-travel/" target="_blank">Play Cut the Rope Time Travel</a> / More <a href="http://www.miniclip.com/games/genre-1/" target="_blank">Puzzle games</a></p>
+
+<!-- Insert this code before your </body> tag -->
+<script src="//static.miniclipcdn.com/js/game-embed.js"></script>
+            
+        </div>
+    
+     <div class="row" id="row2">
            <div class="col-sm-4"></div>
            <div class="col-sm-4">
         

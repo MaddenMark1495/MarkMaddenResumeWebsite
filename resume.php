@@ -11,7 +11,8 @@
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open Sans">
         <link href="../jquery-ui-1.11.4.custom/jquery-ui.min.css" rel="stylesheet" type="text/css">
         <script src="../jquery-ui-1.11.4.custom/external/jquery/jquery.js"></script>
-        <script src="../jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>   
+        <script src="../jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
         </head>
     
         <script> 

@@ -172,7 +172,7 @@
              <h2 class="text-center">A look into my life</h2>
              
              <p class="text-center">I was born in Hinsdale, a western suburb of Chicago, Illnois, where I lived and grew up for next 18 years.
-                I went to Hinsdale Central High School from 2009 to 2013, and worked as a caddy at Hinsdale Golf Club during the summer months. Upon my high school graduation, I then decided to pursue my degree of Software Engineering here at the University of Missouri, where I am presently a junior. </p>
+                I went to Hinsdale Central High School from 2009 to 2013, and worked as a caddy at Hinsdale Golf Club during the summer months. Upon my high school graduation, I then decided to pursue my degree of Computer Science here at the University of Missouri, where I am presently a junior. </p>
                  
                 </div>
            </div>   
