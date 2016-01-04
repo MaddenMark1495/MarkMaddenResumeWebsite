@@ -108,7 +108,7 @@
         
         
     <div class="item">
-      <img src="coding.jpg" alt="building" width="2500" height="450">
+      <img src="coding1.jpg" alt="building" width="2500" height="450">
         <div class="carousel-caption">
           <h2 id="sld2text1">A Software Engineering Student</h2>
           <h4 id="sld2text2">Java, Python, C, HTML/CSS, PHP, JS </h4>
