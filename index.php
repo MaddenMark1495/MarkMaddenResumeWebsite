@@ -69,11 +69,11 @@
                       <ul class="nav navbar-nav">
                       </ul>
                       <ul class="nav navbar-nav navbar-right">
-                          <li><a href="http://mcmpw6cs2830.azurewebsites.net/madden/about.php">About</a></li>
-                          <li><a href="http://mcmpw6cs2830.azurewebsites.net/madden/resume.php">Resume</a></li>
-                        <li><a href="http://mcmpw6cs2830.azurewebsites.net/madden/contact.php">Contact</a></li>
+                          <li><a href="http://markmadden.azurewebsites.net/about.php">About</a></li>
+                          <li><a href="http://markmadden.azurewebsites.net/resume.php">Resume</a></li>
+                        <li><a href="http://markmadden.azurewebsites.net/madden/contact.php">Contact</a></li>
                           <li><a href="https://github.com/MaddenMark1495">Portfolio</a></li>
-                        <li><a href="http://mcmpw6cs2830.azurewebsites.net/madden/log-in.php">Log In</a></li>
+                        <li><a href="http://markmadden.azurewebsites.net/log-in.php">Log In</a></li>
                       </ul>
                     </div><!-- /.navbar-collapse -->
                   </div><!-- /.container-fluid -->
